@@ -107,7 +107,7 @@
 /* --------------service */
 
 .contener__wrap {
-    background-image: url("/img/1.jpg");
+    background-image: url("./img/1.jpg");
     background-repeat: no-repeat;
     background-position: right;
     margin: auto;
@@ -187,23 +187,23 @@
     border-radius: 9px;
     padding: 25px 28px 113px;
     margin-bottom: 32px;
-    /* background-image: url("/img/2.png"); */
+    /* background-image: url("./img/2.png"); */
     background-repeat: no-repeat;
     background-position: right bottom;
     
 }
 
 .details__item--1 {
-    background-image: url("/img/2.png");
+    background-image: url("./img/2.png");
 }
 .details__item--2 {
-    background-image: url("/img/3.png");
+    background-image: url("./img/3.png");
 }
 .details__item--3 {
-    background-image: url("/img/4.png");
+    background-image: url("./img/4.png");
 }
 .details__item--4 {
-    background-image: url("/img/5.png");
+    background-image: url("./img/5.png");
 }
 
 .details__item_title {
@@ -420,7 +420,7 @@
 /* --------contact --- */
 
 .contact {
-    background-image: url(/img/man.jpg);
+    background-image: url('./img/man.jpg');
     position: relative;
     max-width: 1440px;
     height: 690px;
